@@ -1,5 +1,5 @@
 # WEEK-9-KNN-AND-BAYES
-QUESTION 1 ON TITANIC DATASET
+# QUESTION 1 ON TITANIC DATASET
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
@@ -10,7 +10,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 
-QUESTION 2 ON SPAM OR NOT SPAM
+# QUESTION 2 ON SPAM OR NOT SPAM
 
 Relevant Information:
         The "spam" concept is diverse: advertisements for products/web
